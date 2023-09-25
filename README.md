@@ -25,3 +25,19 @@ python3 main.py --url=https://mdo.demogram.cz/ --skip-map=map.csv
 ```
 python3 main.py --url=https://mdo.demogram.cz/ --skip-map=map.csv --headless=1
 ```
+
+## Loop for CMD
+Create .bat file and insert this, then run it.
+
+Loop is set to 5 repetitions.
+```
+@echo off
+cd /d C:\Users\"Your file destination"
+for /L %%i IN (1,1,5) do (
+    python3 main.py --url=https://mdo.demogram.cz/ --skip-map=map.csv
+)
+```
+In this section you must insert your Github project destination
+```
+cd /d C:\Users\"Your file destination"
+```
