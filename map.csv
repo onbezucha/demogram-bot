@@ -1,0 +1,18 @@
+title;url;status_code;links;forms
+MDo Demo;https://mdo.demogram.cz/;200;12;1
+MDo Demo;https://mdo.demogram.cz/index.html;200;12;1
+Lead - MDo Demo;https://mdo.demogram.cz/lead.html;200;10;2
+Product - MDo Demo;https://mdo.demogram.cz/product.html;200;10;3
+Form - MDo Demo;https://mdo.demogram.cz/form.html;200;10;2
+Downloads - MDo Demo;https://mdo.demogram.cz/downloads.html;200;33;1
+Video - MDo Demo;https://mdo.demogram.cz/video.html;200;10;1
+Contact - MDo Demo;https://mdo.demogram.cz/contact.html;200;13;2
+Error 404 - MDo Demo;https://mdo.demogram.cz/account.html;404;10;1
+Error 404 - MDo Demo;https://mdo.demogram.cz/credit-card.html;404;10;1
+Error 404 - MDo Demo;https://mdo.demogram.cz/loan.html;404;10;1
+Downloads - MDo Demo;https://mdo.demogram.cz/downloads.html#downloads;200;33;1
+Downloads - MDo Demo;https://mdo.demogram.cz/downloads.html#benefits;200;33;1
+Downloads - MDo Demo;https://mdo.demogram.cz/downloads.html#prices;200;33;1
+Downloads - MDo Demo;https://mdo.demogram.cz/downloads.html#collapseOne;200;33;1
+Downloads - MDo Demo;https://mdo.demogram.cz/downloads.html#collapseTwo;200;33;1
+Downloads - MDo Demo;https://mdo.demogram.cz/downloads.html#collapseThree;200;33;1
